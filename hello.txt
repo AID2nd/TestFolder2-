@@ -1,3 +1,4 @@
 #이름: 리준혁
 #학번: 
+#각오:
 print('Hellooooooo22')
